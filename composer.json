@@ -1,0 +1,7 @@
+{
+    "name": "shaikhyaser/ext-mysqli",
+    "description": "ext-mysqli",
+    "require": {
+        "php": ">=1.0"
+    }
+}
